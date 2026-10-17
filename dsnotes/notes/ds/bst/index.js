@@ -1,7 +1,7 @@
 import { bstConceptsTab } from "./concept/concepts";
 import { bstDeleteTab } from "./concept/delete";
 import { bstValidateTab } from "./concept/validate";
-import { bstTwoSumTab } from "./concept/twoSum";
+import { bstTwoSumTab } from "./concept/twosum";
 import { bstKthSmallestTab } from "./concept/kth_smallest";
 import { bstLcaTab } from "./concept/lca";
 import { bstIteratorTab } from "./concept/bst_iterator";
